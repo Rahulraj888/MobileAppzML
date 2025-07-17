@@ -1,0 +1,6 @@
+Flask
+flask-cors
+scikit-learn
+shapely
+geojson
+pytest
